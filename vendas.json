@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "itens_id": 1,
+    "codigo_vendedor": 1,
+    "codigo_comprador": 6,
+    "data_venda": "2024-06-01",
+    "valor_pago": 1200000
+  },
+  {
+    "id": 2,
+    "itens_id": 2,
+    "codigo_vendedor": 2,
+    "codigo_comprador": 7,
+    "data_venda": "2024-06-02",
+    "valor_pago": 500000
+  },
+  {
+    "id": 3,
+    "itens_id": 3,
+    "codigo_vendedor": 3,
+    "codigo_comprador": 8,
+    "data_venda": "2024-06-03",
+    "valor_pago": 3000000
+  },
+  {
+    "id": 4,
+    "itens_id": 4,
+    "codigo_vendedor": 4,
+    "codigo_comprador": 9,
+    "data_venda": "2024-06-04",
+    "valor_pago": 800000
+  },
+  {
+    "id": 5,
+    "itens_id": 5,
+    "codigo_vendedor": 5,
+    "codigo_comprador": 10,
+    "data_venda": "2024-06-05",
+    "valor_pago": 1500000
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nome": "General de Ouro",
+    "nick": "GenOuro",
+    "whatsapp": "5585986882710",
+    "perfilImg": "_img/_perfil/85986882710.jpeg"
+  },
+  {
+    "id": 2,
+    "nome": "Lady Valkyrie",
+    "nick": "ValkLady",
+    "whatsapp": "5585986882711",
+    "perfilImg": "_img/_perfil/5585986882711.jpeg"
+  },
+  {
+    "id": 3,
+    "nome": "Mago Supremo",
+    "nick": "SupremoMage",
+    "whatsapp": "5585986882712",
+    "perfilImg": "_img/_perfil/5585986882712.jpeg"
+  },
+  {
+    "id": 4,
+    "nome": "Mercador Real",
+    "nick": "MercReal",
+    "whatsapp": "5585986882713",
+    "perfilImg": "_img/_perfil/5585986882713.jpeg"
+  },
+  {
+    "id": 5,
+    "nome": "Caçador Fantasma",
+    "nick": "GhostHunter",
+    "whatsapp": "5585986882714",
+    "perfilImg": "_img/_perfil/5585986882714.jpeg"
+  }
+]

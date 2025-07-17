@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nome": "General de Ouro",
+    "nick": "GenOuro",
+    "whatsapp": "5585986882710",
+    "perfilImg": "_img/_perfil/85986882710.jpeg"
+  },
+  {
+    "id": 2,
+    "nome": "Lady Valkyrie",
+    "nick": "ValkLady",
+    "whatsapp": "5585986882711",
+    "perfilImg": "_img/_perfil/5585986882711.jpeg"
+  },
+  {
+    "id": 3,
+    "nome": "Mago Supremo",
+    "nick": "SupremoMage",
+    "whatsapp": "5585986882712",
+    "perfilImg": "_img/_perfil/5585986882712.jpeg"
+  },
+  {
+    "id": 4,
+    "nome": "Mercador Real",
+    "nick": "MercReal",
+    "whatsapp": "5585986882713",
+    "perfilImg": "_img/_perfil/5585986882713.jpeg"
+  },
+  {
+    "id": 5,
+    "nome": "Caçador Fantasma",
+    "nick": "GhostHunter",
+    "whatsapp": "5585986882714",
+    "perfilImg": "_img/_perfil/5585986882714.jpeg"
+  },
+  {
+    "id": 6,
+    "nome": "Comprador 1",
+    "nick": "Buyer1",
+    "whatsapp": "5585986882715",
+    "perfilImg": "_img/_perfil/5585986882715.jpeg"
+  },
+  {
+    "id": 7,
+    "nome": "Comprador 2",
+    "nick": "Buyer2",
+    "whatsapp": "5585986882716",
+    "perfilImg": "_img/_perfil/5585986882716.jpeg"
+  },
+  {
+    "id": 8,
+    "nome": "Comprador 3",
+    "nick": "Buyer3",
+    "whatsapp": "5585986882717",
+    "perfilImg": "_img/_perfil/5585986882717.jpeg"
+  },
+  {
+    "id": 9,
+    "nome": "Comprador 4",
+    "nick": "Buyer4",
+    "whatsapp": "5585986882718",
+    "perfilImg": "_img/_perfil/5585986882718.jpeg"
+  },
+  {
+    "id": 10,
+    "nome": "Comprador 5",
+    "nick": "Buyer5",
+    "whatsapp": "5585986882719",
+    "perfilImg": "_img/_perfil/5585986882719.jpeg"
+  }
+]
